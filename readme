@@ -1,0 +1,26 @@
+1.install nextjs from nextjs.org
+2.install bcrypt => to hash the password used in server side
+3.install firebase => firebase as lots of uses storing images login ,register etc
+4.install joi used for validating the schema
+5.install cookies for handling cookies es6,umd
+6.install jwt for handling authorization
+7.install mongoose => db
+8.install react tostify for the toast message
+9.install stripe => The Stripe Node library provides convenient access to the Stripe API from applications written in server-side JavaScript.
+For collecting customer and payment information in the browser, use Stripe.js.
+10.install npm i @stripe/stripe-js
+11.install headless ui for ui design
+
+/_ project _/
+create a content and compnent folder in src and create a navbar folder inside component inside that create a index file
+
+MONGO DB
+login
+create project => name it => create => go for free cluster and createb => create password and finish => click on connect => select vs code => then config in vs code
+
+after connecting db created a db folder and created a index file to config db
+the created a model folder inside that created user file for creation of user schema
+
+created a api in app and inside that created a registration folder inside that created a route file for creating api for user registration
+
+created a service folder and inside that created a register folder and inside that wrote the service for user registration
